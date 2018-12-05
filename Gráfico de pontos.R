@@ -1,0 +1,1 @@
+plot(Tabela_Zonas_Página1$Vendas, xlab = "Vendedor", ylab = "Vendas", main = "Vendas por vendedor")
